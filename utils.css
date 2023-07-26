@@ -1,0 +1,15 @@
+body{
+    background-image: url(Images/sld00.jpg)!important;
+    background-size: cover;
+}
+
+.bsdc{
+    background-color: transparent;
+}
+.formtc{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    color: aliceblue;
+}
